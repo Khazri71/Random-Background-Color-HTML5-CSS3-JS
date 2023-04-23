@@ -1,0 +1,18 @@
+body {
+  background-color: #0000ff;
+}
+button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  border: none;
+  padding: 20px;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 20px;
+  color: #808080;
+  text-shadow: 0px 2px 10px #0000ff;
+}
